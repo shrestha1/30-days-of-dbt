@@ -1,1 +1,0 @@
-# DAY-1 : SNOWFlake and DBT
